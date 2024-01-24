@@ -1,0 +1,8 @@
+﻿  SlidingPuzzle.c
+C:\Users\user\source\repos\SlidingPuzzle\SlidingPuzzle\SlidingPuzzle.c(17,9): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\source\repos\SlidingPuzzle\SlidingPuzzle\SlidingPuzzle.c(71,5): warning C4013: 'srand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\source\repos\SlidingPuzzle\SlidingPuzzle\SlidingPuzzle.c(71,11): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\source\repos\SlidingPuzzle\SlidingPuzzle\SlidingPuzzle.c(78,13): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\source\repos\SlidingPuzzle\SlidingPuzzle\SlidingPuzzle.c(70,18): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\SlidingPuzzle\SlidingPuzzle\SlidingPuzzle.c(70,15): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+  SlidingPuzzle.vcxproj -> C:\Users\user\source\repos\SlidingPuzzle\x64\Debug\SlidingPuzzle.exe
